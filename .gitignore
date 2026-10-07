@@ -23,6 +23,7 @@ frontend/.vite/
 # IDEs
 .vscode/
 .idea/
+.run/*.pid
 
 # OS
 .DS_Store
