@@ -1,4 +1,4 @@
-# 🧬 AI-Powered-Coding-Skill-Talent-Intelligence-Platform
+# 🧬 CodeMind DNA
 
 ### AI-Powered Coding Skill & Talent Intelligence Platform
 
